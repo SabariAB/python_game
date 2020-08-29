@@ -2,7 +2,7 @@
 A snake game using Python.
 An Interactive python snake game.
 
-SNAKE COLOR --->  GREEN
+SNAKE COLOR --->  GREEN, 
 FOOD COLOR --->  BLACK
 
 
