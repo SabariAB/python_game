@@ -1,5 +1,8 @@
 # python_game
 A snake game using Python.
+ To Run This Game, Install Pygame Package using this in your Terminal ---> pip install pygame
+ 
+
 An Interactive python snake game.
 
 SNAKE COLOR --->  GREEN, 
