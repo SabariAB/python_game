@@ -3,6 +3,8 @@ import time
 import random
 pygame.init()
 
+boost = int(input("Enter Snake Speed!: "))
+
 steelblue = (70, 130, 180)
 yellow = (255, 200, 102)
 green = (0, 255, 0)
@@ -17,7 +19,7 @@ pygame.display.set_caption('Python game by SABARI_AB!')
 
 clock = pygame.time.Clock()
 snake = 10
-snake_speed = 20
+snake_speed = boost
 font_style = pygame.font.SysFont(None, 25)
 score_font = pygame.font.SysFont(None, 45)
 
