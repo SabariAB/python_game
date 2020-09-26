@@ -9,6 +9,7 @@ To Run this Game, Install Pygame Package using this command in your Terminal ---
 
 SNAKE COLOR --->  GREEN, 
 FOOD COLOR --->  BLACK
+
 You Can Fix Your Speed of the Snake!
 
 
